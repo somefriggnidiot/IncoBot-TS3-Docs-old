@@ -1,3 +1,9 @@
+# IncoBot-TS3
+
+## Contents
+ - [Chat Commands](./chat_commands)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/somefriggnidiot/IncoBot-TS3-Docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
