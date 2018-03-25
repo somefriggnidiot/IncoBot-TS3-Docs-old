@@ -1,7 +1,7 @@
 # Chat Commands  
   
 ## Dad Mode  
-Controls Dad Mode functionality. When active, the bot will respond to any message that starts along the lines of "I'm <X>" with "Hi, <X>. I'm dad!"  
+Controls Dad Mode functionality. When active, the bot will respond to any message that starts along the lines of "I'm [X]" with "Hi, [X]. I'm dad!"  
   
 ### Syntax  
 `!dadmode <action>`  
