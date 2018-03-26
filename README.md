@@ -1,7 +1,7 @@
 # IncoBot-TS3
 
 ## Contents
- - [Chat Commands](./chat_commands)
+ - [Chat Commands](./chat-commands)
 
 
 ## Welcome to GitHub Pages
